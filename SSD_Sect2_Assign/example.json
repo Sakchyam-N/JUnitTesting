@@ -1,0 +1,17 @@
+{
+	"prop1" : "A string",
+	"prop2" : 0,
+	"prop3" : 3.142,
+	"prop4" : true,
+	"prop5" : false,
+	"prop6" : null,
+	"prop7" : {
+		"prop7_A" : true,
+		"prop7_B" : false,
+		"prop7_C" : "nested string"
+	},
+	"array1" : [ 0, 1, 2, 3 ],
+	"array2" : [ "this", "is", "an", "array" ],
+	"array3" : [ "this", "is", "a", "mixed", "array", 0, true, false, null, 6.232, { "array_prop" : "array_val" }, [ 1,2,3,4 ]  ],
+	"escape_string" : "\"\\\/\b\f\n\r\t\u0041"
+}
