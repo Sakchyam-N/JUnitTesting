@@ -14,7 +14,7 @@ import json.*;
 class JSONTest {
 
 	
-//comment
+
 	@Test
 	void JSONBooleantest() {
 		JSONBoolean booleanValue = JSONFactory.createBoolean(false);
